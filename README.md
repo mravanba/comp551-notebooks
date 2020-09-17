@@ -1,5 +1,5 @@
 # COMP551: Applied Machine Learning (Fall 2020)
-#### instructor: Siamak Ravanbakhsh
+instructor: Siamak Ravanbakhsh
 
 I'll use this repository to share the code for some of the topics that we cover in the class. 
 If you have trouble following parts of the code:
